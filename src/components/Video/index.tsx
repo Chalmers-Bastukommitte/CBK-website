@@ -1,3 +1,5 @@
+// Not currently used in the project
+
 "use client";
 
 import Image from "next/image";

@@ -1,3 +1,5 @@
+// Not currently used in the project
+
 import Image from "next/image";
 import SectionTitle from "../Common/SectionTitle";
 
