@@ -3,44 +3,44 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Vedskola",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Lär dig mer om trätyper, hur de bäst huggs och eldas.",
     image: "/images/blog/blog-01.jpg",
     author: {
       name: "Samuyl Joshi",
       image: "/images/blog/author-01.png",
       designation: "Graphic Designer",
     },
-    tags: ["creative"],
+    tags: ["Rufus Yx- och vedskola"],
     publishDate: "2025",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "Verktygsskola",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Lär dig mer om verktyg för vedhuggning och annat kul.",
     image: "/images/blog/blog-02.jpg",
     author: {
       name: "Musharof Chy",
       image: "/images/blog/author-02.png",
       designation: "Content Writer",
     },
-    tags: ["computer"],
+    tags: ["Rufus Yx- och vedskola"],
     publishDate: "2025",
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "Bastuskola",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Att basta rätt är inte alltid lätt, därför har vi samlat lite regler, kultur och tips.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Lethium Deo",
       image: "/images/blog/author-03.png",
       designation: "Graphic Designer",
     },
-    tags: ["design"],
+    tags: ["Bastubad"],
     publishDate: "2025",
   },
 ];

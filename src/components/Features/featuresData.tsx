@@ -38,7 +38,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src={""}/>
+      src="/images/people/po.jpg"/>
     ),
     title: 
       "PÒ - Wanda Wannelöf",
@@ -49,7 +49,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src={"https://cbk.chs.chalmers.se/wp-content/uploads/2024/03/20240615_114735-scaled-e1722528523161-640x640.jpg"}/>
+      src="/images/people/volt.png"/>
     ),
     title: 
       "Volt - Simon Holmgren",
@@ -60,7 +60,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src={"https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/456544329_2491693864375086_4440926337654526899_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xmF8c0MB1icQ7kNvgFTJw2S&_nc_ht=scontent-arn2-1.xx&oh=00_AYBLec9WItUrZODdM4tDuL0hXOGmMONrr8BkJWr6yo93QA&oe=66D0004E"}/>
+      src="/images/people/skrat.jpg"/>
     ),
     title: 
       "Skråt - Hanna Forsling",

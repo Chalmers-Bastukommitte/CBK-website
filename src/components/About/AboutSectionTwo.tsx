@@ -7,17 +7,17 @@ const AboutSectionTwo = () => {
         <div className="-mx-4 flex flex-wrap items-center">
           <div className="w-full px-4 lg:w-1/2">
             <div
-              className="relative mx-auto mb-12 aspect-[25/24] max-w-[500px] text-center lg:m-0"
+              className="relative mx-auto mb-12 aspect-[25/24] max-w-[650px] text-center lg:m-0"
               data-wow-delay=".15s"
             >
               <Image
-                src="/images/about/about-image-2.svg"
+                src="/images/about/about-2.png"
                 alt="about image"
                 fill
                 className="drop-shadow-three dark:hidden dark:drop-shadow-none"
               />
               <Image
-                src="/images/about/about-image-2-dark.svg"
+                src="/images/about/about-2.png"
                 alt="about image"
                 fill
                 className="hidden drop-shadow-three dark:block dark:drop-shadow-none"
@@ -31,8 +31,8 @@ const AboutSectionTwo = () => {
                   Storstugan
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Områdets största stuga med plats för upp till 120 personer vid sittande bankett. 
+                Samtidigt kan gästerna njuta av middag med utsikt över sjön utanför.
                 </p>
               </div>
               <div className="mb-9">
@@ -40,8 +40,8 @@ const AboutSectionTwo = () => {
                   CS-Bastun
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+                Nordens största studentägda, vedeldade bastu. Med sin plats vid sjökanten kan besökare 
+                kyla sig själva direkt från bastu till bad efter en ångande session.
                 </p>
               </div>
               <div className="mb-1">
@@ -49,8 +49,7 @@ const AboutSectionTwo = () => {
                   Sportstugan
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+                En klassisk sportstuga med en planering av öppet tak. mysig öppen spis, enkelt men modernt kök och gott om sovplats.
                 </p>
               </div>
             </div>
