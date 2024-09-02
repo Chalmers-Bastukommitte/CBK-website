@@ -8,9 +8,9 @@ const blogData: Blog[] = [
       "Lär dig mer om trätyper, hur de bäst huggs och eldas.",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
-      image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      name: "",
+      image: "",
+      designation: "",
     },
     tags: ["Rufus Yx- och vedskola"],
     publishDate: "2025",

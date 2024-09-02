@@ -1,6 +1,5 @@
-import AboutSectionOne from "@/components/About/AboutSectionOne";
-import AboutSectionThree from "@/components/About/AboutSectionThree";
-import AboutSectionTwo from "@/components/About/AboutSectionTwo";
+import Aspa from "@/components/About/Aspa";
+import Stugor from "@/components/About/Stugor";
 import Blog from "@/components/Blog";
 import ScrollUp from "@/components/Common/ScrollUp";
 import Contact from "@/components/Contact";
@@ -21,8 +20,8 @@ export default function Home() {
       <ScrollUp />
       <Hero />
       <Features />
-      <AboutSectionOne />
-      <AboutSectionTwo />
+      <Aspa />
+      <Stugor />
       <Blog />
       <Contact />
     </>

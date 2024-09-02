@@ -1,5 +1,3 @@
-// Not currently used in the project
-
 import Image from "next/image";
 import SectionTitle from "../Common/SectionTitle";
 
@@ -9,7 +7,7 @@ const checkIcon = (
   </svg>
 );
 
-const AboutSectionThree = () => {
+const Utbranda = () => {
   const List = ({ text }) => (
     <p className="mb-5 flex items-center text-lg font-medium text-body-color">
       <span className="mr-4 flex h-[30px] w-[30px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
@@ -26,8 +24,8 @@ const AboutSectionThree = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Vill du vara med?"
+                paragraph="CBK har löpande aspning och du är välkommen att följa med ut på våra byggveckor. "
                 mb="44px"
               />
 
@@ -37,30 +35,30 @@ const AboutSectionThree = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Lär känna oss" />
+                    <List text="Upptäck Härryda området" />
+                    <List text="Lär dig hugga ved m.m." />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Basta med oss" />
+                    <List text="Sov över" />
+                    <List text="Hjälp oss rusta" />
                   </div>
                 </div>
               </div>
             </div>
 
             <div className="w-full px-4 lg:w-1/2">
-              <div className="relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0">
-                <Image
-                  src="/images/about/about-image.svg"
+              <div className="relative mx-auto aspect-[25/24] max-w-[650px] lg:mr-0">
+              <Image
+                  src="/images/about/about-1.jpg"
                   alt="about-image"
                   fill
                   className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
                 />
                 <Image
-                  src="/images/about/about-image-dark.svg"
+                  src="/images/about/about-3.jpg"
                   alt="about-image"
                   fill
                   className="mx-auto hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"
@@ -74,4 +72,4 @@ const AboutSectionThree = () => {
   );
 };
 
-export default AboutSectionThree;
+export default Utbranda;

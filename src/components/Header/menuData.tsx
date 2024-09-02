@@ -9,64 +9,54 @@ const menuData: Menu[] = [
   },
   {
     id: 2,
-    title: "Stugorna",
+    title: "Om oss",
     path: "/about",
-    newTab: false,
-  },
-  {
-    id: 33,
-    title: "Kul att veta",
-    path: "/blog",
-    newTab: false,
-  },
-  {
-    id: 3,
-    title: "Kontakta oss",
-    path: "/contact",
-    newTab: false,
-  },
-  {
-    id: 4,
-    title: "Pages",
     newTab: false,
     submenu: [
       {
-        id: 41,
-        title: "About Page",
-        path: "/about",
+        id: 21,
+        title: "Sittande",
+        path: "/sittande",
         newTab: false,
       },
       {
-        id: 42,
-        title: "Contact Page",
-        path: "/contact",
-        newTab: false,
-      },
-      {
-        id: 43,
-        title: "Blog Grid Page",
-        path: "/blog",
-        newTab: false,
-      },
-      {
-        id: 44,
-        title: "Blog Sidebar Page",
-        path: "/blog-sidebar",
-        newTab: false,
-      },
-      {
-        id: 45,
-        title: "Blog Details Page",
-        path: "/blog-details",
-        newTab: false,
-      },
-      {
-        id: 46,
-        title: "Error Page",
-        path: "/error",
+        id: 22,
+        title: "Utbrända",
+        path: "/utbranda",
         newTab: false,
       },
     ],
+  },
+  {
+    id: 3,
+    title: "Kul att veta",
+    newTab: false,
+    submenu: [
+      {
+        id: 31,
+        title: "Vedskola",
+        path: "/virke",
+        newTab: false,
+      },
+      {
+        id: 32,
+        title: "Verktygsskola",
+        path: "/verktyg",
+        newTab: false,
+      },
+      {
+        id: 33,
+        title: "Bastuvett & Etikett",
+        path: "/bastu",
+        newTab: false,
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: "Kontakta oss",
+    path: "/contact",
+    newTab: false,
   },
 ];
 export default menuData;

@@ -13,8 +13,8 @@ const ContactPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Contact Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="Kom i kontakt med oss"
+        description="Fyll i formuläret nedan för att komma i kontakt med oss eller maila dirket till bastu@cbk.chs.chalmers.se. Följ oss också gärna på sociala medier."
       />
 
       <Contact />

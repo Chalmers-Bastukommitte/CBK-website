@@ -1,6 +1,5 @@
-import AboutSectionOne from "@/components/About/AboutSectionOne";
-import AboutSectionThree from "@/components/About/AboutSectionThree";
-import AboutSectionTwo from "@/components/About/AboutSectionTwo";
+import Sittande from "@/components/About/Sittande";
+import Utbranda from "@/components/About/Utbranda";
 import Breadcrumb from "@/components/Common/Breadcrumb";
 
 import { Metadata } from "next";
@@ -11,16 +10,17 @@ export const metadata: Metadata = {
   // other metadata
 };
 
+// TODO: Byt about 1&2 till sittande och utbrända
+
 const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="Om oss"
+        description="Här kan du läsa mer om vår kommitté och vad vi gör."
       />
-      <AboutSectionOne />
-      <AboutSectionTwo />
-      <AboutSectionThree />
+      <Sittande/>
+      <Utbranda/>
     </>
   );
 };
