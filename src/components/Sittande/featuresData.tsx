@@ -5,7 +5,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src={"https://cbk.chs.chalmers.se/wp-content/uploads/2023/08/Yxa-scaled-e1699394302653-640x640.jpg"}/>
+      src="/images/people/rfsu.jpg"/>
     ),
     title: 
       "RFSU - Mattias Hertzberg",
@@ -16,7 +16,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src={"https://cbk.chs.chalmers.se/wp-content/uploads/2024/03/1000009255-scaled-e1722528486360-640x640.jpg"}/>
+      src="/images/people/barra.jpg"/>
     ),
     title: 
       "Bärra - Love Lindqvist",
@@ -27,7 +27,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src={"https://cbk.chs.chalmers.se/wp-content/uploads/2023/08/Patron-1-scaled-e1699470840477-640x640.jpg"}/>
+      src="/images/people/patron.jpg"/>
     ),
     title: 
       "Patrôn - Daniel Hellberg",

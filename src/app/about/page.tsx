@@ -1,5 +1,5 @@
-import Sittande from "@/components/About/Sittande";
-import Utbranda from "@/components/About/Utbranda";
+import Sittande from "@/components/Sittande";
+import Utbranda from "@/components/Utbranda";
 import Breadcrumb from "@/components/Common/Breadcrumb";
 
 import { Metadata } from "next";
