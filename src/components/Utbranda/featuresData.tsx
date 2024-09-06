@@ -8,8 +8,8 @@ const featuresData: Feature[] = [
       src="/images/people/totte.jpg"/>
     ),
     title: 
-      "OJ TOTTE - Evelina Risberg",
-    paragraph:""
+      "OJ TOTTE",
+    paragraph:"HT22-HT24"
   },
   {
     id: 1,
@@ -18,8 +18,8 @@ const featuresData: Feature[] = [
       src="/images/people/snooze.jpg"/>
     ),
     title: 
-      "Snooze - Albin Tystrand",
-    paragraph:""
+      "Snooze",
+    paragraph:"VT22-HT24"
   },
   {
     id: 1,
@@ -28,7 +28,7 @@ const featuresData: Feature[] = [
       src="/images/people/notfound.jpg"/>
     ),
     title: 
-      "TjaaTjaa - Philip Antoun",
+      "TjaaTjaa",
     paragraph:""
   },
   {

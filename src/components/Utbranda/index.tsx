@@ -9,7 +9,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Utbrända"
-            paragraph="Chalmers Bastukommitté har funnits sedan 20XX och har sedan dess haft många som hjälpt till att förverkligas Chalmers Studentkårs vision om Kårhuset på Landet. Nedan följer en lista på de som suttit i CBK tidigare."
+            paragraph="Chalmers Bastukommitté har funnits sedan 2003 och har sedan dess haft många som hjälpt till att förverkligas Chalmers Studentkårs vision om Kårhuset på Landet. Nedan följer en lista på de som suttit i CBK tidigare."
             center
           />
 
