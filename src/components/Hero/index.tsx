@@ -1,13 +1,16 @@
-import Link from "next/link";
+import Background from "../../../public/images/hero/hero7.jpg";
 
 const Hero = () => {
   return (
     <>
       <section
         id="home"
-        className="relative z-10 overflow-hidden bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
-        style= {{backgroundImage: "url(https://cbk.chs.chalmers.se/wp-content/uploads/2023/08/cropped-cbk2022-67.jpg)"}}
-      >
+        className="relative z-10 bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
+        style={{backgroundImage: `url(${Background.src})`,
+          backgroundRepeat: "no-repeat",
+          backgroundSize: "cover",
+        }}
+        >
         <div className="container">
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4">
@@ -16,7 +19,7 @@ const Hero = () => {
                   CBK
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-white dark:text-white sm:text-lg md:text-xl">
-                  Chalmers Bastu Kommitté
+                  Chalmers Bastukommitté
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                 </div>
