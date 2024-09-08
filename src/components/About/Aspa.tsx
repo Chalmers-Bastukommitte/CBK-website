@@ -25,25 +25,21 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Vill du vara med?"
-                paragraph="CBK har löpande aspning och du är välkommen att följa med ut på våra byggveckor. "
+                paragraph=""
                 mb="44px"
               />
-
-              <div
-                className="mb-12 max-w-[570px] lg:mb-0"
-                data-wow-delay=".15s"
-              >
-                <div className="mx-[-12px] flex flex-wrap">
-                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Lär känna oss" />
-                    <List text="Upptäck Härryda området" />
-                    <List text="Lär dig hugga ved m.m." />
+              <div>
+                <div className="max-w-[600px]">
+                  <div className="mb-9">
+                    <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                    Att aspa CBK innebär att du får vara med och underhålla och förvalta stugor och området i Härryda. Under läsvecka 1 varje läsperiod bor vi ute i Härryda och har byggveckor, då kan du bo med oss och vara med och bygga och fixa. Under resterande läsveckor är du välkommen att vara med på våra veckomöten och följa med på avsyningar av stugorna. 
+                    </p>
                   </div>
-
-                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Basta med oss" />
-                    <List text="Sov över" />
-                    <List text="Hjälp oss rusta" />
+                  <div className="mb-9">
+                    
+                    <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                    Chalmers Bastukommitté har löpande aspning, om du är intresserad kontakta oss via messenger eller instagram.
+                    </p>
                   </div>
                 </div>
               </div>
