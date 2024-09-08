@@ -10,7 +10,7 @@ const Features = () => {
           <SectionTitle
             title="Vilka är CBK?"
             paragraph="CBK är Chalmers Bastukommitté och ansvarar för att förvalta stugorna och bastun ute i Härryda.
-              Vi älskar oss ett riktigt skönt bastubad, ett dopp i skön och att hugga ved."
+              Vi älskar oss ett riktigt skönt bastubad, ett dopp i sjön och att hugga ved."
             center
           />
 

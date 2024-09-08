@@ -29,23 +29,42 @@ const menuData: Menu[] = [
   },
   {
     id: 3,
-    title: "Kul att veta",
+    title: "Vad vi gör",
     newTab: false,
     submenu: [
       {
         id: 31,
+        title: "Tidslinje",
+        path: "/Tidslinje",
+        newTab: false,
+      },
+      {
+        id: 32,
+        title: "Senaste projekt",
+        path: "/Projekt",
+        newTab: false,
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: "Kul att veta",
+    newTab: false,
+    submenu: [
+      {
+        id: 41,
         title: "Vedskola",
         path: "/Vedskola",
         newTab: false,
       },
       {
-        id: 32,
+        id: 42,
         title: "Verktygsskola",
         path: "/Verktygsskola",
         newTab: false,
       },
       {
-        id: 33,
+        id: 43,
         title: "Bastuvett & Etikett",
         path: "/Bastuskola",
         newTab: false,
@@ -53,7 +72,7 @@ const menuData: Menu[] = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     title: "Kontakta oss",
     path: "/contact",
     newTab: false,
