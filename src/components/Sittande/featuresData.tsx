@@ -10,7 +10,7 @@ const featuresData: Feature[] = [
     title: 
       "RFSU - Mattias Hertzberg",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Ordförande, tidigare suttit som verktygsansvarig men istället för att slipa yxeggar slipar han nu på gruppdynamiken, budgeten och verksamheten i stort. ",
   },
   {
     id: 1,
@@ -21,7 +21,7 @@ const featuresData: Feature[] = [
     title: 
       "Bärra - Love Lindqvist",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Vice ordförande, med ett regelrätt ordningssinne stöttar han ordförande kring planering, aspning och det som behövs för stunden. ",
   },
   {
     id: 1,
@@ -32,7 +32,7 @@ const featuresData: Feature[] = [
     title: 
       "Patrôn - Daniel Hellberg",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Projektansvarig, tidigare stugansvarig samt alltid vår lokala muskelman. Efter att ha haft hand om stugornas inventarie har han nu hand om projektplanering. ",
   },
   {
     id: 1,
@@ -43,7 +43,7 @@ const featuresData: Feature[] = [
     title: 
       "PÒ - Wanda Wannelöf",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Stugansvarig, med ett lugn från gudarna och ett sinne för detaljer ser hon till att stugorna och dess inventarie är i toppskick för varje gäst.",
   },
   {
     id: 1,
@@ -54,7 +54,7 @@ const featuresData: Feature[] = [
     title: 
       "Volt - Simon Holmgren",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Verktygsansvarig, alltid fiplandes med en ny makapär eller mannick ser han till att verkygen är nyslipade, hela och redo för användning.",
   },
   {
     id: 1,
@@ -65,7 +65,7 @@ const featuresData: Feature[] = [
     title: 
       "Skråt - Hanna Forsling",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Matasvarig och har även hand om hemsidan, hon kokar galet och ser till att alla i CBK är både mätta och belåtna.",
   }
 ];
 export default featuresData;

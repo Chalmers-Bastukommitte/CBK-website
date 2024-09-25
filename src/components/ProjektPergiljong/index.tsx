@@ -11,13 +11,13 @@ const ProjektPergiljong = () => {
               data-wow-delay=".15s"
             >
               <Image
-                src="/images/project/project3.png"
+                src="/images/project/project_pergiljong.png"
                 alt="about image"
                 fill
                 className="drop-shadow-three dark:hidden dark:drop-shadow-none"
               />
               <Image
-                src="/images/project/project3.png"
+                src="/images/project/project_pergiljong.png"
                 alt="about image"
                 fill
                 className="hidden drop-shadow-three dark:block dark:drop-shadow-none"

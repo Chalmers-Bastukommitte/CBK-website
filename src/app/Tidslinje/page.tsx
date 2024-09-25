@@ -1,5 +1,4 @@
-import Sittande from "@/components/Sittande";
-import Utbranda from "@/components/Utbranda";
+import Timeline from "@/components/timeline";
 import Breadcrumb from "@/components/Common/Breadcrumb";
 
 import { Metadata } from "next";
@@ -10,8 +9,6 @@ export const metadata: Metadata = {
   // other metadata
 };
 
-// TODO: Byt about 1&2 till sittande och utbrända
-
 const AboutPage = () => {
   return (
     <>
@@ -19,8 +16,10 @@ const AboutPage = () => {
         pageName="Tidslinje"
         description="..."
       />
-      <Sittande/>
-      <Utbranda/>
+      
+      <Timeline/>
+
+
     </>
   );
 };

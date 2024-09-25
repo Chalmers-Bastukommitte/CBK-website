@@ -26,8 +26,15 @@ const AboutSectionTwo = () => {
           </div>
           <div className="w-full px-4 lg:w-1/2">
             <div className="max-w-[470px]">
-              <div className="mb-9">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+              <h1 className="mb-4 text-3xl font-bold text-black dark:text-white sm:text-4xl lg:text-3xl xl:text-4xl">
+                Kårhuset på landet</h1>
+                <div className="mb-3">
+                  <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                    Medlemmar i Chalmers Studentkår innefattas av den Chalmerska Allemansrätten och är välkomna att grilla, bada och mycket mer på Chalmers område i Härryda. Det finns även möjlighet att hyra stugorna.
+                  </p>
+                </div>
+              <div className="mb-3">
+                <h3 className="mb-1 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Storstugan
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
@@ -35,8 +42,8 @@ const AboutSectionTwo = () => {
                 Samtidigt kan gästerna njuta av middag med utsikt över sjön utanför.
                 </p>
               </div>
-              <div className="mb-9">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+              <div className="mb-3">
+                <h3 className="mb-1 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   CS-Bastun
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
@@ -44,8 +51,8 @@ const AboutSectionTwo = () => {
                 kyla sig själva direkt från bastu till bad efter en ångande session.
                 </p>
               </div>
-              <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+              <div className="mb-3">
+                <h3 className="mb-1 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Sportstugan
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
