@@ -1,7 +1,7 @@
-import ProjektTrall from "@/components/ProjektTrall";
-import ProjektFlytbrygga from "@/components/ProjektFlytbrygga";
-import ProjektPergiljong from "@/components/ProjektPergiljong";
-import ProjektGrillplats from "@/components/ProjektGrillplats";
+import ProjektTrall from "@/components/Projects/ProjektTrall";
+import ProjektFlytbrygga from "@/components/Projects/ProjektFlytbrygga";
+import ProjektPergiljong from "@/components/Projects/ProjektPergiljong";
+import ProjektGrillplats from "@/components/Projects/ProjektGrillplats";
 
 import Breadcrumb from "@/components/Common/Breadcrumb";
 

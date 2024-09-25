@@ -8,7 +8,7 @@ const Features = () => {
       <section id="features" className="py-16 md:py-20 lg:py-28">
         <div className="container">
           <SectionTitle
-            title="Vilka är CBK?"
+            title="Chalmers Bastukommitté"
             paragraph="CBK är Chalmers Bastukommitté och ansvarar för att förvalta stugorna och bastun ute i Härryda.
               Vi älskar oss ett riktigt skönt bastubad, ett dopp i sjön och att hugga ved."
             center
