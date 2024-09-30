@@ -4,12 +4,70 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: (
-      "2003"
+      "1937"
     ),
     title: 
-      "CBK grundas",
+      "Chalmers Studentkår köper marken i Härryda",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. Nullam nec purus nec purus.",
+      "",
+  },
+  {
+    id: 1,
+    icon: (
+      "1937"
+    ),
+    title: 
+      "Sportstugan står klar",
+    paragraph:
+      "",
+  },
+  {
+    id: 1,
+    icon: (
+      "1966"
+    ),
+    title: 
+      "CS-bastun står klar",
+    paragraph:
+      "",
+  },{
+    id: 1,
+    icon: (
+      "1967"
+    ),
+    title: 
+      "Nya Sportstugan står klar",
+    paragraph:
+      "",
+  },{
+    id: 1,
+    icon: (
+      "1970"
+    ),
+    title: 
+      "CS-bastun brinner ner",
+    paragraph:
+      "Återuppbyggs och står klar 1971",
+  },
+  {
+    id: 1,
+    icon: (
+      "1982"
+    ),
+    title: 
+      "CS-bastun brinner ner igen",
+    paragraph:
+      "Återuppbyggs och står klar 1983",
+  },
+  {
+    id: 1,
+    icon: (
+      "2000"
+    ),
+    title: 
+      "SovU och KissU står klara",
+    paragraph:
+      "KissU blev omgjord från sanitetsstuga till förråd åt CBK och kallas numera för \"Balkan\"",
   },
   {
     id: 1,
@@ -17,38 +75,19 @@ const featuresData: Feature[] = [
       "2003"
     ),
     title: 
-      "CBK grundas",
+      "Chalmers Bastukommitté grundas",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. Nullam nec purus nec purus.",
+      "",
   },
   {
     id: 1,
     icon: (
-      "2003"
+      "2016"
     ),
     title: 
-      "CBK grundas",
+      "Storstugan står klar",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. Nullam nec purus nec purus.",
-  },{
-    id: 1,
-    icon: (
-      "2003"
-    ),
-    title: 
-      "CBK grundas",
-    paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. Nullam nec purus nec purus.",
-  },{
-    id: 1,
-    icon: (
-      "2003"
-    ),
-    title: 
-      "CBK grundas",
-    paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget nunc. Nullam nec purus nec purus.",
+      "",
   },
-  
 ];
 export default featuresData;
