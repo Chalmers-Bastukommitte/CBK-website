@@ -1,3 +1,4 @@
+import Background from "../../../public/images/hero/hero_ht24.jpg";
 
 const Hero = () => {
   return (
@@ -6,7 +7,8 @@ const Hero = () => {
         id="home"
         className="relative z-10 bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[240px] xl:pb-[160px] xl:pt-[320px] 2xl:pb-[200px] 2xl:pt-[400px]"
         style={{
-          backgroundImage: `bg-light-gradient dark:bg-dark-gradient, `,
+          backgroundImage: `linear-gradient(to bottom, rgba(0, 15, 33, 0.8), rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0)), 
+                            url(${Background.src})`,
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
         }}
