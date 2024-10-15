@@ -5,12 +5,20 @@
 This webpage is a simple webpage displaying and informing about the committee Chalmers Bastukommitte at Chalmers Studentkår. 
 
 ## TODO's
- 
+
+- Snyggare bild på pergiljongen 
+
+- Rätt textade videos i bastuvett och etikett
+
+- Ljusare bilder på många sittande 
+
+- Bild och årtal på utbrända + lägga till fler 
+
+## Future plans om man vill bygga ut
+
 - Gör klart kontaktformuläret så att de skickat till bastu@cbk.chs.chalmers.se
 
-- Lägg in instagrammen på kontakta oss-sidan 
-
-- Lägg in datumen i tidslinjen
+- Lägg in instagramflödet på kontakta oss-sidan 
 
 - Lägga till en videon på startsidan? (mottagningsvideon?) 
 

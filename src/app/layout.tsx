@@ -15,13 +15,15 @@ export default function RootLayout({
 }) {
   return (
     <html suppressHydrationWarning lang="en">
-       <head />
+      <head>
+        <link rel="icon" href="/cropped-CBK-Logo.png" />
+      </head>
       <body className={`bg-[#f7f9fb] dark:bg-black ${inter.className}`}>
         <Providers>
-          <Header/>
+          <Header />
           {children}
-          <Footer/>
-          <ScrollToTop/>
+          <Footer />
+          <ScrollToTop />
         </Providers>
       </body>
     </html>
