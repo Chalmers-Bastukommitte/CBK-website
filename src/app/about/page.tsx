@@ -7,10 +7,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Om oss | CBK",
   description: "Om sittande och utbrända i CBK.",
-  // other metadata
 };
-
-// TODO: Byt about 1&2 till sittande och utbrända
 
 const AboutPage = () => {
   return (

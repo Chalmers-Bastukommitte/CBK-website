@@ -5,7 +5,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src="/images/people/rfsu.jpg"/>
+      src="/images/people/rfsu2.jpg"/>
     ),
     title: 
       "RFSU - Mattias Hertzberg",
@@ -16,7 +16,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src="/images/people/barra.jpg"/>
+      src="/images/people/barra2.jpg"/>
     ),
     title: 
       "Bärra - Love Lindqvist",
@@ -27,7 +27,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src="/images/people/patron.jpg"/>
+      src="/images/people/patron2.jpg"/>
     ),
     title: 
       "Patrôn - Daniel Hellberg",
@@ -38,7 +38,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src="/images/people/po.jpg"/>
+      src="/images/people/po2.jpg"/>
     ),
     title: 
       "PÒ - Wanda Wannelöf",
@@ -49,7 +49,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src="/images/people/volt.png"/>
+      src="/images/people/volt2.jpg"/>
     ),
     title: 
       "Volt - Simon Holmgren",
@@ -60,7 +60,7 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src="/images/people/skrat.jpg"/>
+      src="/images/people/skrat2.jpg"/>
     ),
     title: 
       "Skråt - Hanna Forsling",

@@ -1,4 +1,5 @@
 import NewsLatterBox from "./NewsLatterBox";
+import Image from "next/image";
 
 const Contact = () => {
   return (
@@ -15,63 +16,17 @@ const Contact = () => {
                 Undrar du något?
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
-                Skicka ett mail här så svarar vi så snart vi kan.
+                Skicka ett mail till <a href="mailto:bastu@cbk.chs.chalmers.se" className="text-blue-500 underline">bastu@cbk.chs.chalmers.se</a> så svarar vi så snart vi kan.
               </p>
-              <form>
-                <div className="-mx-4 flex flex-wrap">
-                  <div className="w-full px-4 md:w-1/2">
-                    <div className="mb-8">
-                      <label
-                        htmlFor="name"
-                        className="mb-3 block text-sm font-medium text-dark dark:text-white"
-                      >
-                        Namn
-                      </label>
-                      <input
-                        type="text"
-                        placeholder="Skriv ditt namn här"
-                        className="border-stroke w-full rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:text-body-color-dark dark:shadow-two dark:focus:border-primary dark:focus:shadow-none"
-                      />
-                    </div>
-                  </div>
-                  <div className="w-full px-4 md:w-1/2">
-                    <div className="mb-8">
-                      <label
-                        htmlFor="email"
-                        className="mb-3 block text-sm font-medium text-dark dark:text-white"
-                      >
-                        Email
-                      </label>
-                      <input
-                        type="email"
-                        placeholder="Skriv din email-adress här"
-                        className="border-stroke w-full rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:text-body-color-dark dark:shadow-two dark:focus:border-primary dark:focus:shadow-none"
-                      />
-                    </div>
-                  </div>
-                  <div className="w-full px-4">
-                    <div className="mb-8">
-                      <label
-                        htmlFor="message"
-                        className="mb-3 block text-sm font-medium text-dark dark:text-white"
-                      >
-                        Ditt meddelande
-                      </label>
-                      <textarea
-                        name="message"
-                        rows={5}
-                        placeholder="Skriv ditt meddelande här"
-                        className="border-stroke w-full resize-none rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:text-body-color-dark dark:shadow-two dark:focus:border-primary dark:focus:shadow-none"
-                      ></textarea>
-                    </div>
-                  </div>
-                  <div className="w-full px-4">
-                    <button className="rounded-sm bg-primary px-9 py-4 text-base font-medium text-white shadow-submit duration-300 hover:bg-primary/90 dark:shadow-submit-dark">
-                      Skicka
-                    </button>
-                  </div>
-                </div>
-              </form>
+              <div className="relative aspect-[10/5] w-full sm:aspect-[10/5]">
+
+                        <Image
+                          src="/images/about/mailto.jpg"
+                          alt="image"
+                          fill
+                          className="object-cover object-center"
+                        />
+                        </div>
             </div>
           </div>
           <div className="w-full px-4 lg:w-5/12 xl:w-4/12">

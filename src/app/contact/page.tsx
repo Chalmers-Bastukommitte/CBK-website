@@ -6,7 +6,6 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Kontakta oss | CBK",
   description: "Information om hur du kan komma i kontakt med oss.",
-  // other metadata
 };
 
 const ContactPage = () => {

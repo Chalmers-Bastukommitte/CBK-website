@@ -23,9 +23,9 @@ const BlogDetailsPage = () => {
                 </div>
                 <div>
                   <div className="mb-10 w-full overflow-hidden rounded">
-                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
+                    <div className="relative aspect-[10/6] w-full sm:aspect-[10/6]">
                       <Image
-                        src="/images/blog/klyvyxa.png"
+                        src="/images/blog/yxa.jpg"
                         alt="image"
                         fill
                         className="object-cover object-center"
@@ -51,16 +51,6 @@ const BlogDetailsPage = () => {
                 </div>
 
                 <div>
-                  <div className="mb-10 w-full overflow-hidden rounded">
-                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
-                      <Image
-                        src="/images/blog/sportyxa.png"
-                        alt="image"
-                        fill
-                        className="object-cover object-center"
-                      />
-                    </div>
-                  </div>
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                     Sportyxa
                   </h3>
@@ -76,16 +66,6 @@ const BlogDetailsPage = () => {
                 </div>
 
                 <div>
-                  <div className="mb-10 w-full overflow-hidden rounded">
-                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
-                      <Image
-                        src="/images/blog/dubbeltrubbel.png"
-                        alt="image"
-                        fill
-                        className="object-cover object-center"
-                      />
-                    </div>
-                  </div>
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                     Dubbeleggad Yxa
                   </h3>
@@ -99,7 +79,7 @@ const BlogDetailsPage = () => {
                   som symbol för den proffisionella skogarbetaren i Nordamerika.
                   </p>
                   <div className="mb-10 h-full  rounded">
-                  <div className="relative aspect-[97/60] h-full sm:aspect-[97/44]">
+                  <div className="relative aspect-[] h-full sm:aspect-[]">
                   <Image
                         src="/images/blog/5pmav5Q.png"
                         alt="image"
@@ -113,18 +93,7 @@ const BlogDetailsPage = () => {
 
                 <div className="mb-8 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-0 dark:border-white dark:border-opacity-10">
                 </div>
-
-                <div>
-                  <div className="mb-10 w-full overflow-hidden rounded">
-                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
-                      <Image
-                        src="/images/blog/kniv.jpg"
-                        alt="image"
-                        fill
-                        className="object-cover object-center"
-                      />
-                    </div>
-                  </div>
+                
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                     Kniv
                   </h3>
@@ -141,7 +110,11 @@ const BlogDetailsPage = () => {
                   väldigt bra för smala trän där ett sving med yxa riskerar att stjälpa mer än hjälpa och 
                   5 andra incitament som du säkert inte vill hugga av.
                   </p>
+                  <div>
                 </div>
+                <div className="mb-8 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-0 dark:border-white dark:border-opacity-10">
+                </div>
+
                 <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
                       Denna text är skriven av vår kära ordförande, <span className="font-bold">RFSU</span>.

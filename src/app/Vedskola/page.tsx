@@ -25,7 +25,7 @@ const BlogDetailsPage = () => {
                   <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                       <Image
-                        src="/images/blog/oak.png"
+                        src="/images/blog/ved.JPG"
                         alt="image"
                         fill
                         className="object-cover object-center"
@@ -55,7 +55,7 @@ const BlogDetailsPage = () => {
                   <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                       <Image
-                        src="/images/blog/pine.png"
+                        src="/images/blog/grantall.jpg"
                         alt="image"
                         fill
                         className="object-cover object-center"
@@ -87,7 +87,7 @@ const BlogDetailsPage = () => {
                   <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                       <Image
-                        src="/images/blog/birch.png"
+                        src="/images/blog/bjork.JPG"
                         alt="image"
                         fill
                         className="object-cover object-center"
@@ -109,7 +109,9 @@ const BlogDetailsPage = () => {
                     p.g.a. dess färg och mjukhet. De är extremt lätta att klyva och jag fick höra av någon som fick 
                     höra av någon att hans moster klöv en smörbit genom att bara titta på den.
                   </p>
-                  
+                  <div className="mb-8 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-0 dark:border-white dark:border-opacity-10">
+                </div>
+
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
                       Denna text är skriven av vår kära ordförande, <span className="font-bold">RFSU</span>.
