@@ -44,22 +44,25 @@ const Header = () => {
         className={`header left-0 top-0 z-40 flex w-full items-center ${
           sticky
             ? "dark:bg-gray-dark dark:shadow-sticky-dark fixed z-[9999] bg-white !bg-opacity-80 shadow-sticky backdrop-blur-sm transition"
-            : "absolute bg-transparent "
+            : "dark:bg-gray-dark dark:shadow-sticky-dark fixed z-[9999] bg-white !bg-opacity-40 shadow-sticky backdrop-blur-sm transition"
         }`}
       >
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
             <div className="w-60 max-w-full px-4 xl:mr-12">
-              <Link
+                <Link
                 href="/"
                 className={`header-logo block w-full ${
-                  sticky ? "py-5 lg:py-2" : "py-8"
+                  sticky ? "py-5 lg:py-2" : "py-5 lg:py-2"
                 } `}
-              >
-                <img
-                src={"https://cbk.chs.chalmers.se/wp-content/uploads/2018/02/CBK-Logo-Transparent.png"}
+                >
+                <Image
+                  src="/favicon.png"
+                  alt="CBK Logo"
+                  width={200}
+                  height={200}
                 />
-              </Link>
+                </Link>
             </div>
             <div className="flex w-full items-center justify-between px-4">
               <div>
