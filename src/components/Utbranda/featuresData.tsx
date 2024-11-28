@@ -9,7 +9,7 @@ const featuresData: Feature[] = [
     ),
     title: 
       "OJ TOTTE",
-    paragraph:"HT22-HT24"
+    paragraph:"Evelina Risberg, sittande 2022-2024"
   },
   {
     id: 1,
@@ -19,7 +19,7 @@ const featuresData: Feature[] = [
     ),
     title: 
       "Snooze",
-    paragraph:"VT22-HT24"
+    paragraph:"Albin Tystrand, sittande 2022-2024"
   },
   {
     id: 1,
@@ -29,7 +29,78 @@ const featuresData: Feature[] = [
     ),
     title: 
       "TjaaTjaa",
-    paragraph:""
+    paragraph:"Philip Antoun, sittande 2023-2024"
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/chops.jpg"/>
+    ),
+    title: 
+      "Chops",
+    paragraph:"Oscar Börjesson, sittande 2017-2020"
+  },
+
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/knifven.jpg"/>
+    ),
+    title: 
+      "Knifven",
+    paragraph:"Stefan Ewaldsson, sittande 2017-2020"
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/notfound.jpg"/>
+    ),
+    title: 
+      "Willie",
+    paragraph:"Markus Bergland, sittande 2014-2017"
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/stig.jpg"/>
+    ),
+    title: 
+      "Stig",
+    paragraph: "Simon Pedersen, sittande 2013-2016"
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/tux.jpg"/>
+    ),
+    title: 
+      "Tux",
+    paragraph: "Sittande 2014-2016"
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/ume.jpg"/>
+    ),
+    title: 
+      "Ume",
+    paragraph: "Patrik Lindberg, sittande 2011-2014"
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/stefan.jpg"/>
+    ),
+    title: 
+      "Stefan",
+    paragraph: "Stefan Sapei, sittande 2005-2011"
   },
   {
     id: 1,
@@ -94,30 +165,10 @@ const featuresData: Feature[] = [
     id: 1,
     icon: (
       <img
-      src="/images/people/chops.jpg"/>
-    ),
-    title: 
-      "Chops",
-    paragraph:""
-  },
-  {
-    id: 1,
-    icon: (
-      <img
       src="/images/people/sas.jpg"/>
     ),
     title: 
       "Sås",
-    paragraph:""
-  },
-  {
-    id: 1,
-    icon: (
-      <img
-      src="/images/people/knifven.jpg"/>
-    ),
-    title: 
-      "Knifven",
     paragraph:""
   },
   {
@@ -139,6 +190,17 @@ const featuresData: Feature[] = [
     title: 
       "Fåmål",
     paragraph: ""
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/notfound.jpg"/>
+    ),
+    title: 
+      "Glöd",
+    paragraph: ""
   }
+  
 ];
 export default featuresData;
