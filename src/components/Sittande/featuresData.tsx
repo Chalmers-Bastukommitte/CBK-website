@@ -66,6 +66,23 @@ const featuresData: Feature[] = [
       "Skråt - Hanna Forsling",
     paragraph:
       "Matasvarig och har även hand om hemsidan, hon kokar galet och ser till att alla i CBK är både mätta och belåtna.",
+  },
+  {
+    id: 0,
+    icon: "",
+    title: "",
+    paragraph: ""
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/palle.jpg"/>
+    ),
+    title: 
+      "Palle - Isac Rankanen Jason ",
+    paragraph:
+      "Rumsansvarig, CBK's senaste tillskott som ser till att det är ordning i våra interna utrymmen och som alltid pallar med att hjälpa till, rusta upp och hitta på nya upptåg.",
   }
 ];
 export default featuresData;
