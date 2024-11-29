@@ -1,6 +1,6 @@
 import SectionTitle from "../Common/SectionTitle";
 import SingleFeature from "./SingleFeature";
-import peopleData from "src/app/EasyEdit/Utbranda/peopleData";
+import peopleData from "@/app/.Modify_Information/Utbranda/peopleData";
 
 const Features = () => {
   return (

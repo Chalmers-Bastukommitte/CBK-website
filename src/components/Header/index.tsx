@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import ThemeToggler from "./ThemeToggler";
-import menuData from "src/app/EasyEdit/TopMenu/menuData";
+import menuData from "@/app/.Modify_Information/TopMenu/menuData";
 
 const Header = () => {
   // Navbar toggle

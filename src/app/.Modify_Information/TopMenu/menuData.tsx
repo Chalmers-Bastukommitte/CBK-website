@@ -35,13 +35,13 @@ const menuData: Menu[] = [
       {
         id: 31,
         title: "Tidslinje",
-        path: "/Tidslinje",
+        path: "/timeline",
         newTab: false,
       },
       {
         id: 32,
         title: "Senaste projekt",
-        path: "/Projekt",
+        path: "/projects",
         newTab: false,
       },
     ],
