@@ -1,6 +1,6 @@
 import SectionTitle from "../Common/SectionTitle";
 import SingleFeature from "./SingleFeature";
-import featuresData from "src/app/EasyEdit/Sittande/peopleData";
+import peopleData from "@/app/EasyEdit/Sittande/peopleData";
 
 const Features = () => {
   return (
@@ -15,7 +15,7 @@ const Features = () => {
           />
 
           <div className="grid grid-cols-1 gap-x-8 gap-y-14 md:grid-cols-2 lg:grid-cols-3">
-            {featuresData.map((feature) => (
+            {peopleData.map((feature) => (
               <SingleFeature key={feature.id} feature={feature} />
             ))}
           </div>
