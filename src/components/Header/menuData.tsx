@@ -54,19 +54,19 @@ const menuData: Menu[] = [
       {
         id: 41,
         title: "Vedskola",
-        path: "/Vedskola",
+        path: "/blog/Vedskola",
         newTab: false,
       },
       {
         id: 42,
         title: "Verktygsskola",
-        path: "/Verktygsskola",
+        path: "/blog/Verktygsskola",
         newTab: false,
       },
       {
         id: 43,
         title: "Bastuvett & Etikett",
-        path: "/Bastuskola",
+        path: "/blog/Bastuskola",
         newTab: false,
       },
     ],

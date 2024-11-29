@@ -23,7 +23,7 @@ const NewsLatterBox = () => {
         Följ oss på Instagram
       </h3>
       <p className=" pb-11 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-25">
-       Härliga bilder från våra event och annat skoj! Följ oss på Instagram för att inte missa något och glöm inte att skriva till oss om du vill aspa!
+       Härliga bilder från våra event och annat skoj! Följ oss på Instagram @bastukommitten (eller klicka på bilden) för att inte missa något och glöm inte att skriva till oss om du vill aspa!
       </p>
     </div>
   );

@@ -1,7 +1,7 @@
-import P1 from "@/components/Projects/Project1";
-import P2 from "@/components/Projects/Project2";
-import P3 from "@/components/Projects/Project3";
-import P4 from "@/components/Projects/Project4";
+import P1 from "@/app/EasyEdit/Projects/Project1";
+import P2 from "@/app/EasyEdit/Projects/Project2";
+import P3 from "@/app/EasyEdit/Projects/Project3";
+import P4 from "@/app/EasyEdit/Projects/Project4";
 
 import { Metadata } from "next";
 

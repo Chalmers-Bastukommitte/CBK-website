@@ -4,5 +4,4 @@ export type Blog = {
   paragraph: string;
   image: string;
   tags: string[];
-  publishDate: string;
 };

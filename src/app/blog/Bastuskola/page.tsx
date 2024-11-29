@@ -64,29 +64,18 @@ const BlogDetailsPage = () => {
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Vi sjunger hellre mer än väl och kan man sångerna är det bara sjunga med! Några låtar som vi brukar sjunga är:
                   </p>
-                  <div className="grid grid-cols-1 gap-4 sm:grid-cols-3 lg:grid-cols-1 xl:grid-cols-3">
-                    <div className="mb-10 w-full overflow-hidden rounded">
-                      <iframe className="w-full overflow-hidden rounded" width="560" height="200"
-                        src="https://www.youtube.com/embed/tgbNymZ7vqY">
-                      </iframe>
-                    </div>
-                    <div className="mb-10 w-full overflow-hidden rounded">
-                      <iframe className="w-full overflow-hidden rounded" width="560" height="200"
-                        src="https://www.youtube.com/embed/tgbNymZ7vqY">
-                      </iframe>
-                    </div>
-                    <div className="mb-10 w-full overflow-hidden rounded">
-                      <iframe className="w-full overflow-hidden rounded" width="560" height="200"
-                        src="https://www.youtube.com/embed/tgbNymZ7vqY">
-                      </iframe>
-                    </div>
-                  </div>
-                  <p className="mb-8 text-base font-medium  leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    "Mer och mer och mer", "Dalen" och "Handelsresande" är alla låtar som är roliga att sjunga och lära sig sålänge en i sällskapet kan texten och melodin.</p>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Egentligen går det att sjunga vilken låt som helst i bastun. Vi rekommenderar glada, 
-                    lite komiska och trallvänliga låtar. Att ha en person som leder sången är också bra att ha.
+                  <p className="mb-8 text-base italic font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                    Mer och Mer och Mer - Euskefeurat 
                   </p>
+                  <p className="mb-8 text-base italic font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                    Rattlin' Bog - The Irish Rovers (Eller Dalen)
+                  </p>
+                  <p className="mb-8 text-base italic font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                    Handelsresande - Euskefeurat 
+                  </p>
+                  <p className="mb-8 text-base font-medium  leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                    De är alla låtar som är roliga att sjunga och lära sig sålänge en i sällskapet kan texten och melodin. Egentligen går det att sjunga vilken låt som helst i bastun. Vi rekommenderar glada, 
+                    lite komiska och trallvänliga låtar. Att ha en person som leder sången är också bra.</p>
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                     Bastu-VM
                   </h3>
@@ -116,7 +105,7 @@ const BlogDetailsPage = () => {
                 </div>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
-                    Självklart händer det att även vi bastar nakna. Men då är vi enbart i sällskap där vi vet att alla är bekväma med det, så som när bastukommitéerna från Sverige, Finland och Norge träffas.
+                    Det händer att även vi bastar nakna. Men då är vi enbart i sällskap där vi vet att alla är bekväma med det, så som när bastukommitéerna från Sverige, Finland och Norge träffas.
                   </p>
                 </div>
                 <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
