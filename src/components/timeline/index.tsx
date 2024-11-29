@@ -1,6 +1,7 @@
 import SectionTitle from "../Common/SectionTitle";
 import SingleFeature from "./SingleFeature";
 import featuresData from "./featuresData";
+import Carousel from "../Carousel";
 
 const Features = () => {
   return (
@@ -12,11 +13,15 @@ const Features = () => {
             paragraph="Se hur CBK har utvecklats genom åren och läs både roliga och intressanta historier om området och kommittén."
             center
           />
-
-          <div className="">
-            {featuresData.map((feature) => (
-              <SingleFeature key={feature.id} feature={feature} />
-            ))}
+          <div className="flex flex-col lg:flex-row">
+            <div className="lg:w-3/5">
+              <Carousel />
+            </div>
+            <div className="lg:w-2/5">
+              {featuresData.map((feature) => (
+                <SingleFeature key={feature.id} feature={feature} />
+              ))}
+            </div>
           </div>
         </div>
       </section>

@@ -1,6 +1,6 @@
 import SectionTitle from "../Common/SectionTitle";
 import SingleFeature from "./SingleFeature";
-import featuresData from "./featuresData";
+import featuresData from "src/app/EasyEdit/Sittande/peopleData";
 
 const Features = () => {
   return (

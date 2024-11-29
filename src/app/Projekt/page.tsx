@@ -1,11 +1,12 @@
-import ProjektTrall from "@/components/Projects/ProjektTrall";
-import ProjektFlytbrygga from "@/components/Projects/ProjektFlytbrygga";
-import ProjektPergiljong from "@/components/Projects/ProjektPergiljong";
-import ProjektGrillplats from "@/components/Projects/ProjektGrillplats";
-
-import Breadcrumb from "@/components/Common/Breadcrumb";
+import P1 from "@/components/Projects/Project1";
+import P2 from "@/components/Projects/Project2";
+import P3 from "@/components/Projects/Project3";
+import P4 from "@/components/Projects/Project4";
 
 import { Metadata } from "next";
+
+import Breadcrumb from "@/components/Common/Breadcrumb";
+import SectionTitle from "@/components/Common/SectionTitle";
 
 export const metadata: Metadata = {
   title: "Projekt | CBK",
@@ -19,10 +20,21 @@ const AboutPage = () => {
         pageName="Projekt"
         description="CBK's senaste projekt."
       />
-      <ProjektPergiljong/>
-      <ProjektTrall/>
-      <ProjektFlytbrygga/>
-      <ProjektGrillplats/>
+
+      <section id="features" className="py-16 md:py-20 lg:py-28">
+        <div className="container">
+          <SectionTitle
+            title="Senaste Projekt"
+            paragraph="Förutom att ta hand området och se till så att det är helt, rent och snyggt har vi även genom åren genomfört en rad olika projekt. Här kan du läsa om några av dem."
+            center/>
+        </div>
+      
+        <P1/>
+        <P2/>
+        <P3/>
+        <P4/>
+        
+      </section>
 
     </>
   );
