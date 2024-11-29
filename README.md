@@ -1,10 +1,11 @@
-# Chalmers Bastukommittés
+# Chalmers Bastukommittés Hemsida
 
 ## Hur du uppdaterar info
 
 - I [.Modify_Information](src/app/.Modify_Information) kan du till nya sittande i sittande/peopleData och förflytta när någon blir utbränd genom att förflytta deras indexinfo till utbranda/peopleData
   - Lägg in en bild och döp den i images/people (håll gärna samma format som de tidigare)
 - Nya projekt kan läggas till i [Projects](src/app/.Modify_Information/Projects) samt i [projects/index](src/app/projects/page.tsx) för att det nya ska synas och hamna i rätt ordning. 
+- Om du vill ändra i toppmenyn så görs det med repots mapp-struktur samt [menuData](src/app/.Modify_Information/TopMenu/menuData.tsx)
 
 ## Future plans om man vill bygga ut
 
@@ -18,10 +19,10 @@
 
 This webpage is a simple webpage displaying and informing about the committee Chalmers Bastukommitte at Chalmers Studentkår. 
 
-# This website is developed using: Startup - Free Next.js Startup Website Template
+## This website is developed using: Startup - Free Next.js Startup Website Template
 
 Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
 
-## [🔌 Documentation](https://nextjstemplates.com/docs)
+#### [🔌 Documentation](https://nextjstemplates.com/docs)
 
-## 📄 License Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
+#### 📄 License Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
