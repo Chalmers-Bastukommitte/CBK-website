@@ -9,7 +9,7 @@ const peopleData: Feature[] = [
     ),
     title: 
       "OJ TOTTE",
-    paragraph:"Evelina Risberg, sittande 2022-2024"
+    paragraph:"Sittande 2022-2024"
   },
   {
     id: 1,
@@ -19,7 +19,7 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Snooze",
-    paragraph:"Albin Tystrand, sittande 2022-2024"
+    paragraph:"Sittande 2022-2024"
   },
   {
     id: 1,
@@ -29,7 +29,17 @@ const peopleData: Feature[] = [
     ),
     title: 
       "TjaaTjaa",
-    paragraph:"Philip Antoun, sittande 2023-2024"
+    paragraph:"Sittande 2023-2024"
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/demo.jpg"/>
+    ),
+    title: 
+      "Demo",
+    paragraph:"Sittande 2019-2022"
   },
   {
     id: 1,
@@ -39,7 +49,7 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Chops",
-    paragraph:"Oscar Börjesson, sittande 2017-2020"
+    paragraph:"Sittande 2017-2020"
   },
 
   {
@@ -50,7 +60,7 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Knifven",
-    paragraph:"Stefan Ewaldsson, sittande 2017-2020"
+    paragraph:"Sittande 2017-2020"
   },
   {
     id: 1,
@@ -60,7 +70,7 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Willie",
-    paragraph:"Markus Bergland, sittande 2014-2017"
+    paragraph:"Sittande 2014-2017"
   },
   {
     id: 1,
@@ -70,7 +80,7 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Stig",
-    paragraph: "Simon Pedersen, sittande 2013-2016"
+    paragraph: "Sittande 2013-2016"
   },
   {
     id: 1,
@@ -90,7 +100,7 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Ume",
-    paragraph: "Patrik Lindberg, sittande 2011-2014"
+    paragraph: "Sittande 2011-2014"
   },
   {
     id: 1,
@@ -100,7 +110,7 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Stefan",
-    paragraph: "Stefan Sapei, sittande 2005-2011"
+    paragraph: "Sittande 2005-2011"
   },
   {
     id: 1,
@@ -120,16 +130,6 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Strået",
-    paragraph:""
-  },
-  {
-    id: 1,
-    icon: (
-      <img
-      src="/images/people/demo.jpg"/>
-    ),
-    title: 
-      "Demo",
     paragraph:""
   },
   {
