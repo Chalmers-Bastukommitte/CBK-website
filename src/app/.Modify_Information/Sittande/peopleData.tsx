@@ -2,7 +2,7 @@ import { Feature } from "@/types/feature";
 
 const peopleData: Feature[] = [
   {
-    id: 1,
+    id: 0,
     icon: (
       <img
       src="/images/people/rfsu.jpg"/>
@@ -24,7 +24,7 @@ const peopleData: Feature[] = [
       "Vice ordförande, med ett regelrätt ordningssinne stöttar han ordförande kring planering, aspning och det som behövs för stunden. ",
   },
   {
-    id: 1,
+    id: 2,
     icon: (
       <img
       src="/images/people/patron.jpg"/>
@@ -35,7 +35,7 @@ const peopleData: Feature[] = [
       "Projektansvarig, tidigare stugansvarig samt alltid vår lokala muskelman. Efter att ha haft hand om stugornas inventarie har han nu hand om projektplanering. ",
   },
   {
-    id: 1,
+    id: 3,
     icon: (
       <img
       src="/images/people/po.jpg"/>
@@ -46,7 +46,7 @@ const peopleData: Feature[] = [
       "Stugansvarig, med ett lugn från gudarna och ett sinne för detaljer ser hon till att stugorna och dess inventarie är i toppskick för varje gäst.",
   },
   {
-    id: 1,
+    id: 4,
     icon: (
       <img
       src="/images/people/volt.jpg"/>
@@ -57,7 +57,7 @@ const peopleData: Feature[] = [
       "Verktygsansvarig, alltid fiplandes med en ny makapär eller mannick ser han till att verkygen är nyslipade, hela och redo för användning.",
   },
   {
-    id: 1,
+    id: 5,
     icon: (
       <img
       src="/images/people/skrat.jpg"/>
@@ -68,13 +68,7 @@ const peopleData: Feature[] = [
       "Matasvarig och har även hand om hemsidan, hon kokar galet och ser till att alla i CBK är både mätta och belåtna.",
   },
   {
-    id: 0,
-    icon: "",
-    title: "",
-    paragraph: ""
-  },
-  {
-    id: 1,
+    id: 6,
     icon: (
       <img
       src="/images/people/palle.jpg"/>
