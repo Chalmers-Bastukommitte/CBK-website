@@ -45,8 +45,8 @@ const BlogDetailsPage = () => {
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Att kasta på vatten på aggregatet kan man göra hur mycket man vill givet att man är 
                     ensam men vill man kasta på vatten vatten på aggregatet när det är fler i bastun är 
-                    det bra att kolla så att alla är med på det. Detta är lättast att göra genom att ropa ut "BASTU", 
-                    får man då gensvaret "BAD" är det fritt fram att kasta på vatten. 
+                    det bra att kolla så att alla är med på det. Detta är lättast att göra genom att ropa ut &quot;BASTU&quot;, 
+                    får man då gensvaret &quot;BAD&quot; är det fritt fram att kasta på vatten. 
                   </p>
                   <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
@@ -68,7 +68,7 @@ const BlogDetailsPage = () => {
                     Mer och Mer och Mer - Euskefeurat 
                   </p>
                   <p className="mb-8 text-base italic font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Rattlin' Bog - The Irish Rovers (Eller Dalen)
+                    Rattlin&apos Bog - The Irish Rovers (Eller Dalen)
                   </p>
                   <p className="mb-8 text-base italic font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Handelsresande - Euskefeurat 
