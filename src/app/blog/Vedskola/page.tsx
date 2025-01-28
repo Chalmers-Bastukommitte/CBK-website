@@ -114,7 +114,7 @@ const BlogDetailsPage = () => {
 
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
-                      Denna text är skriven av vår kära ordförande, <span className="font-bold">RFSU</span>.
+                      Denna text är skriven av <span className="font-bold">RFSU</span>.
                     </p>
                   </div>
                 </div>
