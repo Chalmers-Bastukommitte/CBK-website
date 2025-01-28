@@ -4,7 +4,7 @@ const peopleData: Feature[] = [
   {
     id: 0,
     icon: (
-      <img
+      <img 
       src="/images/people/rfsu.jpg"/>
     ),
     title: 
