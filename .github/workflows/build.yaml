@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: ${{ github.ref == 'refs/heads/Main' }}
-          tags: ghcr.io/huml4n/CBK:latest
+          tags: ghcr.io/huml4n/cbk:latest
