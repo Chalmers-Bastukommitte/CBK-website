@@ -73,6 +73,10 @@ const BlogDetailsPage = () => {
                   <p className="mb-8 text-base italic font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Handelsresande - Euskefeurat 
                   </p>
+                  
+                  <p className="mb-8 text-base italic font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                    Sågen - Ola Aurell 
+                  </p>
                   <p className="mb-8 text-base font-medium  leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     De är alla låtar som är roliga att sjunga och lära sig sålänge en i sällskapet kan texten och melodin. Egentligen går det att sjunga vilken låt som helst i bastun. Vi rekommenderar glada, 
                     lite komiska och trallvänliga låtar. Att ha en person som leder sången är också bra.</p>
