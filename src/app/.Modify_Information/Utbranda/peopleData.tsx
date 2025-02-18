@@ -110,7 +110,7 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Stefan",
-    paragraph: "Sittande 2005-2011"
+    paragraph: "Sittande 2005-2009"
   },
   {
     id: 1,
