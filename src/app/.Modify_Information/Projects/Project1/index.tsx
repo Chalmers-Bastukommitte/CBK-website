@@ -31,7 +31,7 @@ const ProjektPergiljong = () => {
               </h1>
               <div className="mb-9">
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                Under mottagningen kommer alla Chalmers sektioner ut och de nyintagna bjuds på bastu och sittning. En anrik tradition sedan 1960-talet är att de nyintagna får vara med CBK och hugga ved. För att skapa en trevlig plats för detta byggdes en pergiljong/pergola till huggplatsen innan mottagningen 2024 så att ved kan huggas även vid risk för regn.
+                Under mottagningen kommer alla Chalmers sektioner ut och de nyintagna bjuds på bastu och sittning. En anrik tradition sedan 1960-talet är att de nyintagna får vara med CBK och hugga ved. För att skapa en trevlig plats för detta byggdes en pergola/paviljong till huggplatsen innan mottagningen 2024 så att ved kan huggas även vid risk för regn.
                 </p>
               </div>
               <div className="mb-9">

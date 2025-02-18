@@ -27,7 +27,7 @@ const ProjektTrall = () => {
           <div className="w-full px-4 lg:w-1/2">
             <div className="max-w-[470px]">
               <h1 className="mb-9 text-3xl font-bold text-black dark:text-white sm:text-4xl lg:text-3xl xl:text-4xl">
-                Ny trall till Storstugan
+                Storstugans uteplats
               </h1>
               <div className="mb-9">
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">

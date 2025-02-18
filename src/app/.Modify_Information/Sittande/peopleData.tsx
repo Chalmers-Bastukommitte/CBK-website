@@ -8,7 +8,7 @@ const peopleData: Feature[] = [
       src="/images/people/rfsu.jpg"/>
     ),
     title: 
-      "RFSU - Mattias Hertzberg",
+      "RFSU - Matttias Hertzberg",
     paragraph:
       "Ordförande, tidigare suttit som verktygsansvarig men istället för att slipa yxeggar slipar han nu på gruppdynamiken, budgeten och verksamheten i stort. ",
   },
