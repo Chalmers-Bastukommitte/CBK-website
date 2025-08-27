@@ -5,6 +5,28 @@ const peopleData: Feature[] = [
     id: 1,
     icon: (
       <img
+      src="/images/people/patron.jpg"/>
+    ),
+    title: 
+      "Patrôn",
+    paragraph:
+      "Sittande 2023-2025",
+  },
+  {
+    id: 1,
+    icon: (
+      <img 
+      src="/images/people/rfsu.jpg"/>
+    ),
+    title: 
+      "RFSU",
+    paragraph:
+      "Sittande 2023-2025",
+  },
+  {
+    id: 1,
+    icon: (
+      <img
       src="/images/people/totte.jpg"/>
     ),
     title: 
