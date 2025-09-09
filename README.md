@@ -1,5 +1,13 @@
 # Chalmers Bastukommittés Hemsida
 
+## Startkommandon
+
+npm start dev 
+evetuellt 
+npm run build 
+
+localhost:3000
+
 ## Hur du uppdaterar info
 
 - I [.Modify_Information](src/app/.Modify_Information) kan du till nya sittande i sittande/peopleData och förflytta när någon blir utbränd genom att förflytta deras indexinfo till utbranda/peopleData
