@@ -68,7 +68,7 @@ const BlogDetailsPage = () => {
                     Mer och Mer och Mer - Euskefeurat 
                   </p>
                   <p className="mb-8 text-base italic font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Rattlin' Bog - The Irish Rovers (Eller Dalen)
+                    Rattlin&apos; Bog - The Irish Rovers (Eller Dalen)
                   </p>
                   <p className="mb-8 text-base italic font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Handelsresande - Euskefeurat 
