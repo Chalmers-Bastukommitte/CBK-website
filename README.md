@@ -1,12 +1,28 @@
 # Chalmers Bastukommittés Hemsida
 
+## Setup
+
+För att starta första gången behöver du köra dessa kommandon:
+
+```
+npm install
+npm run build
+npm run dev
+```
+
+Gå till http://localhost:3000
+
 ## Startkommandon
 
-npm start dev 
+```
+npm run dev 
+```
 evetuellt 
+```
 npm run build 
+```
 
-localhost:3000
+Gå till http://localhost:3000
 
 ## Hur du uppdaterar info
 
