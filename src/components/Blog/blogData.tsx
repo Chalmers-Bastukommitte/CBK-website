@@ -7,7 +7,7 @@ const blogData: Blog[] = [
     paragraph:
       "Lär dig mer om trätyper, hur de bäst huggs och eldas.",
     image: "/images/blog/blog-01.jpg",
-    tags: ["Rufus Yx- och vedskola"],
+    tags: ["Rufus vedskola"],
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const blogData: Blog[] = [
     paragraph:
       "Lär dig mer om verktyg för vedhuggning och annat kul.",
     image: "/images/blog/blog-02.jpg",
-    tags: ["Rufus Yx- och vedskola"],
+    tags: ["Rufus verktygsskola"],
   },
   {
     id: 3,

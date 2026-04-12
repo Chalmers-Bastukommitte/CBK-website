@@ -24,48 +24,46 @@ const peopleData: Feature[] = [
     paragraph:
       "Vice Ordförande",
   },
-   {
+
+  {
     id: 1,
     icon: (
       <img
-      src="/images/people/barra.jpg"/>
+      src="/images/people/ugglan.jpg"/>
     ),
     title: 
-      "Bärra - Love Lindqvist",
-    paragraph:
-      "Matansvarig",
+      "Ugglan",
+    paragraph: "Matansvarig",
+  },
+  {
+    id: 2,
+    icon: (
+      <img
+      src="/images/people/friman.jpg"/>
+    ),
+    title: 
+      "Friman",
+    paragraph: "Stugansvarig",
   },
   {
     id: 5,
     icon: (
       <img
-      src="/images/people/skrat.jpg"/>
+      src="/images/people/gralle.jpg"/>
     ),
     title: 
-      "Skråt - Hanna Forsling",
-    paragraph:
-      "PRojektansvarig",
+      "Grålle",
+    paragraph: "Verktygsansvarig och projektansvarig",
   },
   {
     id: 6,
     icon: (
       <img
-      src="/images/people/palle.jpg"/>
+      src="/images/people/gibbe.jpg"/>
     ),
     title: 
-      "Palle - Isac Rankanen Jason ",
-    paragraph:
-      "Verktygsansvarig",
-  },
-  {
-    id: 1,
-    icon: (
-      <img
-      src="/images/people/notfound.jpg"/>
-    ),
-    title: 
-      "Ugglan",
-    paragraph: "Rumsansvarig och Stugansvarig",
+      "Gibbe",
+    paragraph: "Mat-, PR- och Rumsansvarig",
   }
 ];
 export default peopleData;

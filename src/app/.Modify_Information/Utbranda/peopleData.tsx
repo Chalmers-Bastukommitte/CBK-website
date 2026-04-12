@@ -2,6 +2,39 @@ import { Feature } from "@/types/feature";
 
 const peopleData: Feature[] = [
   {
+    id: 4,
+    icon: (
+      <img
+      src="/images/people/palle.jpg"/>
+    ),
+    title: 
+      "Palle - Isac Rankanen Jason ",
+    paragraph:
+      "Sittande 2024-2026",
+  },   
+  {
+    id: 5,
+    icon: (
+      <img
+      src="/images/people/skrat.jpg"/>
+    ),
+    title: 
+      "Skråt - Hanna Forsling",
+    paragraph:
+      "Sittande 2024-2026",
+  },
+  {
+    id: 1,
+    icon: (
+      <img
+      src="/images/people/barra.jpg"/>
+    ),
+    title: 
+      "Bärra - Love Lindqvist",
+    paragraph:
+      "Sittande 2023-2026",
+  },
+  {
     id: 1,
     icon: (
       <img
