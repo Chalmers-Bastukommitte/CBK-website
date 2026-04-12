@@ -28,6 +28,7 @@ Gå till http://localhost:3000
 
 - I [.Modify_Information](src/app/.Modify_Information) kan du till nya sittande i sittande/peopleData och förflytta när någon blir utbränd genom att förflytta deras indexinfo till utbranda/peopleData
   - Lägg in en bild och döp den i mappen [people](public\images\people) (håll gärna samma format som de tidigare)
+  - Ändra på samma sätt hero bilden (den stora bilden man ser på startsidan) i mappen hero och döp den aktuella bilden till hero. 
 - Nya projekt kan läggas till i [Projects](src/app/.Modify_Information/Projects) samt i [projects/index](src/app/projects/page.tsx) för att det nya ska synas och hamna i rätt ordning. 
 - Om du vill ändra i toppmenyn så görs det med repots mapp-struktur samt [menuData](src/app/.Modify_Information/TopMenu/menuData.tsx)
 
