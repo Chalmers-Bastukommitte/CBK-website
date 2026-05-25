@@ -63,7 +63,17 @@ const peopleData: Feature[] = [
     ),
     title: 
       "Gibbe",
-    paragraph: "Mat-, PR- och Rumsansvarig",
+    paragraph: "Mat och PR-ansvarig",
+  },
+  {
+    id: 7,
+    icon: (
+      <img
+      src="/images/people/spratt.jpg"/>
+    ),
+    title: 
+      "Sprätt",
+    paragraph: "Rumsansvarig",
   }
 ];
 export default peopleData;
